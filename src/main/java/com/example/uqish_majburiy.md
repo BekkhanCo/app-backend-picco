@@ -5,3 +5,5 @@
 3.persistense package (repository larni saqlash uchun)
 
 4.util package umimiy classlarda ishlatiladigan package lar uchun
+
+![img.png](img.png)
